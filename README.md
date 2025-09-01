@@ -1,4 +1,3 @@
-Got it — here’s a **compact one-page `README.md`** for your **DeepSeek Clone**, keeping everything concise but still professional and GitHub-ready:
 
 ---
 
@@ -79,15 +78,3 @@ deepseek-clone/
 
 ---
 
-## 📜 License
-
-MIT License © 2025 \[Your Name]
-
-```
-
----
-
-This fits neatly on one page, easy for recruiters or collaborators to skim.  
-
-Do you want me to also create a **matching one-page README** for your **Eraser.io Clone** so both repos look uniform and professional?
-```
